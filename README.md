@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to the ship 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4dhul4bs&show_icons=true&theme=dark)
 
